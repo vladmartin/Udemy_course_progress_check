@@ -1,1 +1,1 @@
-Udemy study course progress check-ins
+Udemy course progress check-ins
