@@ -1,1 +1,1 @@
-# course_planner
+Udemy study course progress check-ins
